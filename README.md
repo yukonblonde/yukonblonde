@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yukonblonde
-- 👀 I’m interested in ... Linux, Arch, Containers, Gsync on linux, Sway, Kwin, Gaming, Security
+- 👀 I’m interested in ... Linux, Arch, Containers, Gsync on linux, KDE Plasma, Sway, Kwin, Gaming, Security
 - 🌱 I’m currently learning ... see above
 - 💞️ I’m looking to collaborate on ... ^
 - 📫 How to reach me ... don't. JK send me a message bruh 
